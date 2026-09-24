@@ -94,6 +94,15 @@ When detectable compared with the previous report:
 ## Coverage Rule
 Do NOT arbitrarily stop at 3–5 products. If many active promotions are verifiable, include as many verified promotion items as possible while keeping each row compact.
 
+## Laptop Brand Coverage — Mandatory
+For the Laptop section, do NOT stop after finding one large campaign or one brand. On every run, actively search the approved sources for promotions from **Acer, ASUS, Dell, HP, Lenovo, MSI, Gigabyte, Apple/MacBook**, and any other laptop brand currently sold by the approved sources.
+
+- Search by both promotion/campaign pages and individual product pages.
+- A single-brand campaign must never dominate the report if verified promotions from other brands are active.
+- Before finishing the Laptop section, perform a separate multi-brand coverage pass across the approved stores.
+- Include every verifiable promoted model found, subject to the exact-SKU and live-page verification rules above.
+- If a major brand has no verified active promotion, it may be omitted; do not invent deals just to achieve brand balance.
+
 ## Myanmar Price Rule
 Do NOT automatically convert prices to MMK in the daily Thailand report.
 
