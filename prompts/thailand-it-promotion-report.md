@@ -8,6 +8,7 @@ Check Thailand IT deals and promotions for:
 - Laptops
 - Smartphones
 - Tablets / iPad
+- Monitors
 - Desktop computers / PC components
 
 Report **all currently active promotions that can be verified**, maximizing verified item coverage rather than showing only a few highlights.
@@ -45,7 +46,8 @@ Group by:
 1. 💻 Laptop
 2. 📱 Smartphone
 3. 📲 Tablet / iPad
-4. 🖥️ Desktop / PC Components
+4. 🖥️ Monitor
+5. 🧩 Desktop / PC Components
 
 Use a dense table such as:
 
@@ -94,14 +96,32 @@ When detectable compared with the previous report:
 ## Coverage Rule
 Do NOT arbitrarily stop at 3–5 products. If many active promotions are verifiable, include as many verified promotion items as possible while keeping each row compact.
 
-## Laptop Brand Coverage — Mandatory
-For the Laptop section, do NOT stop after finding one large campaign or one brand. On every run, actively search the approved sources for promotions from **Acer, ASUS, Dell, HP, Lenovo, MSI, Gigabyte, Apple/MacBook**, and any other laptop brand currently sold by the approved sources.
+## Full Category & Brand Coverage — Mandatory
+The report is NOT laptop-only. On every run, perform a separate broad coverage pass for EVERY category below and search all approved sources before finishing the report.
 
-- Search by both promotion/campaign pages and individual product pages.
-- A single-brand campaign must never dominate the report if verified promotions from other brands are active.
-- Before finishing the Laptop section, perform a separate multi-brand coverage pass across the approved stores.
-- Include every verifiable promoted model found, subject to the exact-SKU and live-page verification rules above.
-- If a major brand has no verified active promotion, it may be omitted; do not invent deals just to achieve brand balance.
+### 💻 Laptops
+Actively search Acer, ASUS/ROG, Dell, HP, Lenovo, MSI, Gigabyte, Apple/MacBook and any other laptop brands currently sold by approved sources.
+
+### 📱 Smartphones
+Actively search Apple/iPhone, Samsung, Google Pixel, Xiaomi/Redmi/POCO, OPPO, vivo, realme, HONOR, Nothing and any other phone brands currently sold by approved sources.
+
+### 📲 Tablets / iPad
+Actively search Apple/iPad, Samsung Galaxy Tab, Xiaomi/Redmi/POCO, Lenovo, HONOR, Huawei and any other tablet brands currently sold by approved sources.
+
+### 🖥️ Monitors
+Monitors are a REQUIRED standalone report category. Actively search ASUS/ROG, Acer, Dell/Alienware, LG, Samsung, MSI, Gigabyte, AOC, BenQ/ZOWIE, ViewSonic and other monitor brands currently sold by approved sources.
+
+### 🧩 Desktop / PC Components
+Search broadly across complete desktop PCs AND individual components/accessories, including at minimum: CPU, GPU/graphics card, motherboard, RAM, SSD/NVMe/storage, PSU, case, CPU cooler/AIO, case fans and other core PC components sold by approved sources. Search major relevant brands such as Intel, AMD, NVIDIA partner cards, ASUS, MSI, Gigabyte/AORUS, ASRock, Corsair, Kingston, Crucial, WD, Samsung, Seagate, Cooler Master, Thermaltake and others available from approved sources.
+
+### Coverage procedure
+- Search both promotion/campaign pages and individual product pages.
+- Do not stop because one brand or one category has many deals.
+- A single brand must never dominate merely because its campaign was found first.
+- Before finishing EACH category, perform a separate multi-brand/multi-product coverage pass across the approved stores.
+- Include as many currently active, exact-SKU, live-page-verifiable promotions as possible.
+- If a brand has no verified active promotion, omit it rather than inventing a deal.
+- Do not use a fixed 3–5 item limit.
 
 ## Myanmar Price Rule
 Do NOT automatically convert prices to MMK in the daily Thailand report.
