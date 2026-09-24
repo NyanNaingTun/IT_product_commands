@@ -25,6 +25,12 @@ Generate ONE separate image per report section/category:
 4. 🖥️ Monitor — one image
 5. 🧩 Desktop / PC Components — one image
 
+Each category image is a SINGLE collage/catalog-style image containing MULTIPLE product items from that category.
+
+Example: the Laptop image is ONE image that contains many laptop promotion items from the report, not one image per laptop.
+
+Include as many report items for that category as can remain clearly readable in the single category image. Do not create one image per product.
+
 Never combine all categories into one image unless the user explicitly asks for that.
 
 ## Required Content on Every Image
